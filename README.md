@@ -1,5 +1,3 @@
-# Python-
-Python programming projects and practice programs, including an Online Survey System
 Online Survey System
 
 1. Abstract
